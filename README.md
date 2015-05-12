@@ -11,7 +11,7 @@ A simple Arduino-based weather datalogger.
 
 ### Communications
 - XBee Zigbee 1MW with chip antenna Digi-Key 705-07
-- Sparkfun SerLCD (5V)
+- [Sparkfun 5V Serial-enabled 16x2 LCD](https://www.sparkfun.com/products/9393)
 - [Adafruit 16x2 OLED](http://www.adafruit.com/products/823)
 
 ### Sensors
