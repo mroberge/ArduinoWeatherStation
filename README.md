@@ -16,7 +16,7 @@ A simple Arduino-based weather datalogger.
 
 ### Sensors
 - [10k thermistor](http://www.adafruit.com/products/372)
-- Sparkfun SHT15
+- [Sparkfun SHT15 temperature and humidity sensor](https://www.sparkfun.com/products/8257)
 - [Sparkfun HIH4030 humidity sensor](https://www.sparkfun.com/products/9569)
 - [Sparkfun SCP1000 pressure sensor](https://www.sparkfun.com/products/retired/8161)
 - [Sparkfun BMP085 pressure sensor](https://www.sparkfun.com/products/retired/9694)
