@@ -19,7 +19,7 @@ A simple Arduino-based weather datalogger.
 - Sparkfun SHT15
 - Sparkfun Humidity sensor HIH1030 sen09569
 - Sparkfun SCP1000
-- Sparkfun BMP085
+- [Sparkfun BMP085 pressure sensor](https://www.sparkfun.com/products/retired/9694)
 
 
 
