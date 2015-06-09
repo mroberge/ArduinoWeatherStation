@@ -20,6 +20,8 @@ A simple Arduino-based weather datalogger.
 - [Sparkfun HIH4030 humidity sensor](https://www.sparkfun.com/products/9569)
 - [Sparkfun SCP1000 pressure sensor](https://www.sparkfun.com/products/retired/8161)
 - [Sparkfun BMP085 pressure sensor](https://www.sparkfun.com/products/retired/9694)
+- [Adafruit AM2302 humidity sensor](http://www.adafruit.com/products/393)
+- [Adafruit MPL11542 pressure sensor](http://www.adafruit.com/products/992)
 
 
 
